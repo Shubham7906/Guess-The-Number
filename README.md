@@ -100,5 +100,6 @@ function newGame(){
 }
 
 ```
-![game](https://github.com/Shubham7906/Guess-The-Number/assets/76210714/03dfa88d-38ed-4ea8-9f13-0d7a2277719b)
+![game](https://github.com/Shubham7906/Guess-The-Number/assets/76210714/24f80c4d-a80d-4f3f-b116-be98ae15ac13)
+
 
