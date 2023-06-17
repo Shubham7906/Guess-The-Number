@@ -1,7 +1,10 @@
 # Guess-The-Number
+
+## Description
+
 This is a simple and interactive "Guess the Number" game implemented in JavaScript. The game allows players to guess a randomly generated number within a specified range. It provides feedback on each guess, indicating whether the guess is too high or too low.
 
-##CODE
+## CODE
 
 ```
 let random = parseInt(Math.random() * 100 + 1);
